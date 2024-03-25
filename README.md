@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Saxena</h1>
 
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h3 align="center">An Enthusiastic Fresher from India</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" />
