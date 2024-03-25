@@ -40,7 +40,7 @@
 
 👨‍💻 **All of my projects are available at [https://kunal-saxena-portfolio.netlify.app/](https://kunal-saxena-portfolio.netlify.app/)**
 
-💬 **Ask me about Python, Java, RDBMS, MySQL, OOPs, Power-BI, Tableau, Data Visualization**
+💬 **Ask me about Python, C++, Java, DBMS, SQL, MySQL, OOPs, SDLC, Machine Learning, Power-BI, Tableau, Data Visualization, Data Modelling**
 
 📫 **How to reach me: kunal97saxena@gmail.com**
 
@@ -48,9 +48,26 @@
 
 <hr>
 
+<h3 align="center">About Me</h3>
+
+<p align="center">
+  I'm an enthusiastic and motivated fresher with a keen interest in both software development and data analytics. Proficient in Python, C++, Java, and SQL, I'm eager to apply my skills to real-world projects and contribute to the development of innovative solutions.
+</p>
+
+<p align="center">
+  With a solid understanding of DBMS, OOPs, and SDLC principles, I'm excited about the prospect of building robust software applications and exploring data analytics techniques to derive meaningful insights. I'm particularly interested in leveraging data analytics tools like Power BI and Tableau to visualize data and inform decision-making processes.
+</p>
+
+<p align="center">
+  I'm committed to continuous learning and growth, and I'm enthusiastic about collaborating with experienced professionals to expand my knowledge in both software development and data analytics. I'm open to exploring different roles and domains within these fields to find where my skills and interests align best.
+</p>
+
+<hr>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
@@ -70,10 +87,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsaxena22&theme=radical" alt="kunalsaxena22" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kunalsaxena22&theme=radical" alt="kunalsaxena22" />
 </p>
 
 <hr>
