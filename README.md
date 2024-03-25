@@ -1,30 +1,88 @@
-![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 <h1 align="center">Hi 👋, I'm Kunal Saxena</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalsaxena22&label=Profile%20views&color=0e75b6&style=flat" alt="kunalsaxena22" /> </p>
+<h3 align="center">A Passionate Data Analyst from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalsaxena22" alt="kunalsaxena22" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://kunal-saxena-portfolio.netlify.app/](https://kunal-saxena-portfolio.netlify.app/)
-
-- 💬 Ask me about **Python, Java, RDBMS, MySQL, OOPs, Power-BI, Tableau, Data Visualization**
-
-- 📫 How to reach me **kunal97saxena@gmail.com**
-
-- 📄 Know about my experiences [https://kunal-saxena-portfolio.netlify.app/](https://kunal-saxena-portfolio.netlify.app/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kunal saxena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunal saxena" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/kunalsaxena22">
+    <img src="https://badges.pufler.dev/visits/kunalsaxena22/kunalsaxena22?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/kunalsaxena22?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/kunalsaxena22?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://gist.github.com/kunalsaxena22">
+    <img src="https://badges.pufler.dev/gists/kunalsaxena22?style=flat-square&color=black&logo=github">
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalsaxena22&show_icons=true&locale=en" alt="kunalsaxena22" /></p>
+<p align="center">
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/kunal-saxena" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:kunal97saxena@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsaxena22&" alt="kunalsaxena22" /></p>
+<p align="center">
+  <a href="https://kunal-saxena-portfolio.netlify.app/">
+    <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkunal-saxena-portfolio.netlify.app%2F&style=flat-square" alt="Personal Website">
+  </a>
+</p>
+
+<hr>
+
+👨‍💻 **All of my projects are available at [https://kunal-saxena-portfolio.netlify.app/](https://kunal-saxena-portfolio.netlify.app/)**
+
+💬 **Ask me about Python, Java, RDBMS, MySQL, OOPs, Power-BI, Tableau, Data Visualization**
+
+📫 **How to reach me: kunal97saxena@gmail.com**
+
+📄 **Know about my experiences: [https://kunal-saxena-portfolio.netlify.app/](https://kunal-saxena-portfolio.netlify.app/)**
+
+<hr>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalsaxena22&show_icons=true&theme=radical" alt="kunalsaxena22" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsaxena22&theme=radical" alt="kunalsaxena22" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kunalsaxena22&theme=radical" alt="kunalsaxena22" />
+</p>
+
+<hr>
+
+<p align="center">
+  <a href="https://kunalsaxena22.github.io/">
+    <img src="https://img.shields.io/badge/-Personal%20Website-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Personal Website">
+  </a>
+  <a href="https://github.com/kunalsaxena22">
+    <img src="https://img.shields.io/github/followers/kunalsaxena22?style=flat-square&logo=github" alt="GitHub Followers">
+  </a>
+</p>
