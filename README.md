@@ -93,7 +93,7 @@
 
 <p align="center">
   <a href="https://kunalsaxena22.github.io/">
-    <img src="https://img.shields.io/badge/-Personal%20Website-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Personal Website">
+    <img src="https://img.shields.io/badge/-Personal%20Website-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="[Personal Website](https://kunal-saxena-portfolio.netlify.app/)">
   </a>
   <a href="https://github.com/kunalsaxena22">
     <img src="https://img.shields.io/github/followers/kunalsaxena22?style=flat-square&logo=github" alt="GitHub Followers">
