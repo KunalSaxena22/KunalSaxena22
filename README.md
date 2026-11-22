@@ -1,101 +1,133 @@
-<h1 align="center">Hi 👋, I'm Kunal Saxena</h1>
-
-<h3 align="center">An Enthusiastic Fresher from India</h3>
+<!--
+  Kunal Saxena | GitHub Profile
+  A focused profile README for software development, applied AI and data.
+-->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" />
+  <img src="./assets/hero-3d.svg" alt="Kunal Saxena — animated 3D developer banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/kunalsaxena22">
-    <img src="https://badges.pufler.dev/visits/kunalsaxena22/kunalsaxena22?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/KunalSaxena22">
+    <img src="https://img.shields.io/badge/GitHub-KunalSaxena22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/kunalsaxena22?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/kunalsaxena22?style=flat-square&color=black&logo=github">
+  <a href="https://www.linkedin.com/in/kunal-saxena-engineer/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://gist.github.com/kunalsaxena22">
-    <img src="https://badges.pufler.dev/gists/kunalsaxena22?style=flat-square&color=black&logo=github">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/your_twitter_handle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.linkedin.com/in/kunal-saxena" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:kunal97saxena@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:kunal97saxena@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://kunal-saxena-portfolio.netlify.app/">
-    <img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fkunal-saxena-portfolio.netlify.app%2F&style=flat-square" alt="Personal Website">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=72E3F5&center=true&vCenter=true&width=760&lines=Software+Development+%7C+Applied+AI+%7C+Data;Building+useful+tools+with+clean%2C+practical+code;Always+learning.+Always+building." alt="Animated developer tagline" />
+</p>
+
+---
+
+## About
+
+I'm **Kunal Saxena**, a software developer and IT trainer with a **B.Tech in Computer Science and Engineering**. I enjoy turning ideas and real-world requirements into useful applications — from desktop software and database-backed systems to computer vision, AI-powered tools and data workflows.
+
+My work brings together hands-on development, analytical thinking and the ability to explain technical concepts clearly. I enjoy learning new technologies, collaborating with people and improving a solution until it is genuinely useful.
+
+- **Development:** Python, C#, .NET, ASP.NET Core, C++, PHP and REST APIs
+- **AI & data:** Machine Learning, Computer Vision, OpenCV, Pandas, Power BI and Excel
+- **Databases:** SQL Server, MySQL and database design
+- **Technical mentoring:** Programming, DBMS, OOP, SQL and practical lab-based learning
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,cpp,php,html,css,ts,angular,mysql,sqlite,opencv,git,github,vscode,visualstudio&perline=8" alt="Technology icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-Applied_AI-7C3AED?style=flat-square" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Computer_Vision-OpenCV-22A6B3?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Data_Analytics-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Database_Design-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 AttendVision</h3>
+      <p>A Python desktop attendance application using webcam-based face capture and LBPH recognition, with student records, attendance sessions, Excel reports and dashboard summaries.</p>
+      <p><strong>Built with:</strong> Python · Tkinter · OpenCV · Pandas · Excel</p>
+      <a href="https://github.com/KunalSaxena22/Face-Recognition-Attendance-Application">
+        <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore AttendVision" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Image Intellect</h3>
+      <p>An AI-powered Streamlit application that accepts image uploads and generates natural-language explanations using Gemini's multimodal capabilities.</p>
+      <p><strong>Built with:</strong> Python · Streamlit · Gemini API · Pillow</p>
+      <a href="https://github.com/KunalSaxena22/Image-intellect-">
+        <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Image Intellect" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 Sports Data Prediction</h3>
+      <p>A machine-learning project exploring sports data and predictive analysis, reflecting my interest in finding patterns and building data-informed solutions.</p>
+      <p><strong>Focus:</strong> Data analysis · Prediction · Machine Learning</p>
+      <a href="https://github.com/KunalSaxena22/Prediction_The_Sports_Data">
+        <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Sports Data Prediction" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 Color Detection Model</h3>
+      <p>An OpenCV utility that samples a pixel from an image and finds the closest named color using RGB distance, with input validation and unit tests.</p>
+      <p><strong>Built with:</strong> Python · OpenCV · CSV · unittest</p>
+      <a href="https://github.com/KunalSaxena22/Colore-Detection-Model">
+        <img src="https://img.shields.io/badge/Explore_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Color Detection" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/KunalSaxena22?tab=repositories">
+    <img src="https://img.shields.io/badge/Discover_More_Repositories-6D5DFB?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" />
   </a>
 </p>
 
-<hr>
+## What I Bring
 
-👨‍💻 **All of my projects are available at [https://kunal-saxena-portfolio.netlify.app/](https://kunal-saxena-portfolio.netlify.app/)**
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚙️ Build</h3>
+      <p>Practical applications, APIs, database-driven systems and automation.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤖 Explore</h3>
+      <p>Applied AI, machine learning, computer vision and data analysis.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>🤝 Share</h3>
+      <p>Clear technical communication, mentoring and collaborative learning.</p>
+    </td>
+  </tr>
+</table>
 
-💬 **Ask me about Python, C++, Java, DBMS, SQL, MySQL, OOPs, SDLC, Machine Learning, Power-BI, Tableau, Data Visualization, Data Modelling**
+## Let's Connect
 
-📫 **How to reach me: kunal97saxena@gmail.com**
-
-📄 **Know about my experiences: [https://kunal-saxena-portfolio.netlify.app/](https://kunal-saxena-portfolio.netlify.app/)**
-
-<hr>
-
-<h3 align="center">About Me</h3>
-
-<p align="center">
-  I'm an enthusiastic and motivated fresher with a keen interest in both software development and data analytics. Proficient in Python, C++, Java, and SQL, I'm eager to apply my skills to real-world projects and contribute to the development of innovative solutions.
-</p>
-
-<p align="center">
-  With a solid understanding of DBMS, OOPs, and SDLC principles, I'm excited about the prospect of building robust software applications and exploring data analytics techniques to derive meaningful insights. I'm particularly interested in leveraging data analytics tools like Power BI and Tableau to visualize data and inform decision-making processes.
-</p>
-
-<p align="center">
-  I'm committed to continuous learning and growth, and I'm enthusiastic about collaborating with experienced professionals to expand my knowledge in both software development and data analytics. I'm open to exploring different roles and domains within these fields to find where my skills and interests align best.
-</p>
-
-<hr>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</p>
-
-<hr>
+I'm open to connecting with developers, teams and people building useful technology. I enjoy discussing software engineering, AI, data and opportunities to create meaningful products.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kunalsaxena22&show_icons=true&theme=radical" alt="kunalsaxena22" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalsaxena22&theme=radical" alt="kunalsaxena22" />
-</p>
-
-<hr>
-
-<p align="center">
-  <a href="https://kunal-saxena-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/-Personal%20Website-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Personal Website">
+  <a href="https://www.linkedin.com/in/kunal-saxena-engineer/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://github.com/kunalsaxena22">
-    <img src="https://img.shields.io/github/followers/kunalsaxena22?style=flat-square&logo=github" alt="GitHub Followers">
+  <a href="mailto:kunal97saxena@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kunal" />
   </a>
+</p>
+
+<p align="center">
+  <sub>Designed with curiosity, built with code, and improved one commit at a time.</sub>
 </p>
