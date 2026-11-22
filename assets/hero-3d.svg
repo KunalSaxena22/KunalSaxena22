@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+  <title id="title">Kunal Saxena — Animated 3D developer banner</title>
+  <desc id="desc">A dark futuristic banner with an animated isometric technology core, orbiting nodes, and software development themes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="55%" stop-color="#101c35"/>
+      <stop offset="100%" stop-color="#1c1740"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="55%" stop-color="#b9e9ff"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+    </linearGradient>
+    <linearGradient id="topFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8be9ff"/>
+      <stop offset="100%" stop-color="#477bff"/>
+    </linearGradient>
+    <linearGradient id="leftFace" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0%" stop-color="#526dff"/>
+      <stop offset="100%" stop-color="#273b9b"/>
+    </linearGradient>
+    <linearGradient id="rightFace" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#43318e"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#60a5fa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity=".26"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#8cb8e8" stroke-opacity=".10" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#020617" flood-opacity=".55"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="410" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="410" rx="28" fill="url(#grid)"/>
+  <circle cx="910" cy="205" r="245" fill="url(#glow)"/>
+  <path d="M0 330C180 270 315 390 500 330S820 260 1200 330" fill="none" stroke="#6ee7f9" stroke-opacity=".12" stroke-width="2"/>
+  <path d="M0 350C220 290 350 410 560 350S890 280 1200 350" fill="none" stroke="#a78bfa" stroke-opacity=".12" stroke-width="2"/>
+
+  <g transform="translate(72 72)">
+    <rect x="0" y="0" width="288" height="34" rx="17" fill="#142944" stroke="#3b82f6" stroke-opacity=".45"/>
+    <circle cx="18" cy="17" r="5" fill="#5eead4"/>
+    <text x="33" y="22" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1.7" fill="#b9d8f4">DEVELOPER  •  BUILDER  •  LEARNER</text>
+    <text x="0" y="126" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="-1.8" fill="url(#titleGrad)">KUNAL SAXENA</text>
+    <rect x="2" y="151" width="86" height="4" rx="2" fill="url(#cyan)"/>
+    <text x="0" y="198" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="500" fill="#d4e5f8">Turning ideas into useful software.</text>
+    <text x="0" y="242" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2.2" fill="#8fb3d8">SOFTWARE  /  AI + ML  /  DATA</text>
+    <text x="0" y="286" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#8da7c5">Build with purpose. Learn continuously. Share what works.</text>
+  </g>
+
+  <g transform="translate(875 205)" filter="url(#shadow)">
+    <ellipse cx="0" cy="0" rx="214" ry="83" transform="rotate(-26)" fill="none" stroke="#60a5fa" stroke-opacity=".62" stroke-width="1.5" stroke-dasharray="7 9">
+      <animateTransform attributeName="transform" type="rotate" from="-26 0 0" to="334 0 0" dur="34s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="0" cy="0" rx="178" ry="111" transform="rotate(34)" fill="none" stroke="#a78bfa" stroke-opacity=".55" stroke-width="1.4">
+      <animateTransform attributeName="transform" type="rotate" from="34 0 0" to="-326 0 0" dur="42s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="0" cy="0" rx="135" ry="56" transform="rotate(82)" fill="none" stroke="#5eead4" stroke-opacity=".42" stroke-width="1.2" stroke-dasharray="4 8">
+      <animateTransform attributeName="transform" type="rotate" from="82 0 0" to="442 0 0" dur="28s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <g opacity=".95">
+      <circle cx="-175" cy="-68" r="5" fill="#5eead4" filter="url(#softGlow)">
+        <animate attributeName="opacity" values=".45;1;.45" dur="2.6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="182" cy="69" r="5" fill="#a78bfa" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="1;.35;1" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="108" cy="-116" r="4" fill="#60a5fa">
+        <animate attributeName="r" values="3;6;3" dur="3.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 5;0 -9;0 5" dur="5.5s" repeatCount="indefinite"/>
+      <polygon points="0,-116 102,-58 0,0 -102,-58" fill="url(#topFace)" stroke="#b8f5ff" stroke-opacity=".85" stroke-width="1.5"/>
+      <polygon points="-102,-58 0,0 0,116 -102,58" fill="url(#leftFace)" stroke="#85a7ff" stroke-opacity=".55" stroke-width="1.5"/>
+      <polygon points="0,0 102,-58 102,58 0,116" fill="url(#rightFace)" stroke="#c4b5fd" stroke-opacity=".65" stroke-width="1.5"/>
+      <path d="M-48 -58L0 -30L48 -58M0 -30V27" fill="none" stroke="#e6fbff" stroke-opacity=".65" stroke-width="2"/>
+      <path d="M-72 0L-24 27V76M72 0L24 27V76" fill="none" stroke="#c7d2fe" stroke-opacity=".42" stroke-width="1.5"/>
+      <circle cx="0" cy="-8" r="15" fill="#e0fbff" fill-opacity=".13" stroke="#e0fbff" stroke-opacity=".7"/>
+      <path d="M-7 -8H7M0 -15V-1" stroke="#f0fdff" stroke-width="2" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(-153 60) scale(.34)" opacity=".9">
+      <polygon points="0,-52 46,-26 0,0 -46,-26" fill="#5eead4"/>
+      <polygon points="-46,-26 0,0 0,52 -46,26" fill="#0f9eae"/>
+      <polygon points="0,0 46,-26 46,26 0,52" fill="#2563a9"/>
+    </g>
+    <g transform="translate(156 -72) scale(.28)" opacity=".88">
+      <polygon points="0,-52 46,-26 0,0 -46,-26" fill="#c4b5fd"/>
+      <polygon points="-46,-26 0,0 0,52 -46,26" fill="#7655d8"/>
+      <polygon points="0,0 46,-26 46,26 0,52" fill="#4c3b9c"/>
+    </g>
+  </g>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing=".5">
+    <g transform="translate(735 62)">
+      <rect width="82" height="30" rx="15" fill="#122941" stroke="#22d3ee" stroke-opacity=".55"/>
+      <text x="41" y="20" text-anchor="middle" fill="#b8f4ff">PYTHON</text>
+    </g>
+    <g transform="translate(1018 292)">
+      <rect width="66" height="30" rx="15" fill="#211b43" stroke="#a78bfa" stroke-opacity=".65"/>
+      <text x="33" y="20" text-anchor="middle" fill="#e1d8ff">.NET</text>
+    </g>
+    <g transform="translate(1080 109)">
+      <rect width="66" height="30" rx="15" fill="#122941" stroke="#60a5fa" stroke-opacity=".55"/>
+      <text x="33" y="20" text-anchor="middle" fill="#c9e6ff">SQL</text>
+    </g>
+  </g>
+
+  <path d="M1150 34h18M1159 25v18M35 360h18M44 351v18" stroke="#8ab6e6" stroke-opacity=".45" stroke-width="1.5" stroke-linecap="round"/>
+  <circle cx="1160" cy="355" r="2.5" fill="#5eead4" opacity=".8"/>
+  <circle cx="42" cy="45" r="2.5" fill="#a78bfa" opacity=".8"/>
+</svg>
