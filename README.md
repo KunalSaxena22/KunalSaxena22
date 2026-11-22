@@ -11,7 +11,7 @@
   <a href="https://github.com/KunalSaxena22">
     <img src="https://img.shields.io/badge/GitHub-KunalSaxena22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/kunal-saxena-engineer/">
+  <a href="https://www.linkedin.com/in/kunalsaxena01/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:kunal97saxena@gmail.com">
